@@ -13,7 +13,7 @@ This project analyzes customer feedback data using Excel and AI-based prompt eng
 - Prompt Engineering (AI)
 
 - ## Dashboard Preview
-- ![Dashboard](dashboard.png)
+- ![Dashboard](Dashboard.png)
 
 ## Use Case
 - Business insights from customer feedback
